@@ -1,3 +1,7 @@
 body{
     background: gray;
 }
+
+p{
+    font-size: 20px;
+}
